@@ -1,0 +1,25 @@
+columns:
+    id:
+        label: 'gravatalonga.contactformsimples::lang.list.id'
+        type: number
+        searchable: true
+    name:
+        label: name
+        type: text
+    email:
+        label: email
+        type: text
+        searchable: true
+    message:
+        label: message
+        type: text
+        searchable: true
+    readed:
+        label: readed
+        type: text
+    created_at:
+        label: created_at
+        type: datetime
+    updated_at:
+        label: updated_at
+        type: datetime

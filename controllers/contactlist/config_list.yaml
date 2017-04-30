@@ -1,0 +1,14 @@
+title: 'gravatalonga.contactformsimples::lang.plugin.list'
+modelClass: Gravatalonga\ContactFormSimples\Models\Contacts
+list: $/gravatalonga/contactformsimples/models/contacts/columns.yaml
+recordUrl: gravatalonga/contactformsimples/contactlist
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+defaultSort:
+    column: id
+    direction: asc
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'

@@ -1,0 +1,11 @@
+plugin:
+    name: 'gravatalonga.contactformsimples::lang.plugin.name'
+    description: 'gravatalonga.contactformsimples::lang.plugin.description'
+    author: gravatalonga
+    icon: oc-icon-send
+    homepage: 'http://jonathan.pt'
+navigation:
+    main-menu-item:
+        label: 'gravatalonga.contactformsimples::lang.plugin.list'
+        url: gravatalonga/contactformsimples/contactlist
+        icon: icon-send
